@@ -1,0 +1,15 @@
+Package: exp2vis
+Type: Package
+Title: Package reads expression data of microarray outputs connected to phenotype data; analyze both expression and 
+        phenotype data can be read via three different ways ; external tsv files, GEO series ID or GEO
+        series matrix zipped file. This is followed by Analysis using either DESeq2 or Limma, then performing Pearson's
+        correlation matrix, clusterd heatmap and pathway annotation of regulated genes"
+Version: 0.1.0
+Author: EG-CompBio-DAV-R_course_Group_1
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
